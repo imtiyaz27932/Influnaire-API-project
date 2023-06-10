@@ -1,0 +1,9 @@
+{
+    "validPhone": {
+        "phoneNumber": "7006653782"
+    },
+    "verifyotp": {
+        "otp": "89799",
+        "email": "test@gmail.com"
+    }
+}

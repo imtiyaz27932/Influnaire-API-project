@@ -1,0 +1,21 @@
+{
+    "validEmail": {
+      "email": "userapdddfixsssudd@gmail.com",
+      "firstName": "John",
+      "lastName": "Doe",
+      "jobTitle": "Software Engineer",
+      "company": "Google",
+      "phoneNumber": "+19887988907",
+      "password": "string"
+    },
+    "invalidEmail": {
+      "email": "kingdsfdxggdxgsdgdfmygin.",
+      "firstName": "John",
+      "lastName": "Doe",
+      "jobTitle": "Software Engineer",
+      "company": "Google",
+      "phoneNumber": "+19887988907",
+      "password": "string"
+    }
+  }
+  
