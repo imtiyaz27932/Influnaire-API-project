@@ -1,0 +1,12 @@
+{
+    "Validcredentials": {
+        "email": "test1@example.com",
+        "password": "string",
+        "fcmToken": "string"
+    },
+    "Invalidcredentials": {
+        "email": "test1",
+        "password": "string",
+        "fcmToken": "string"
+    }
+}
