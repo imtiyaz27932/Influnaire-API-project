@@ -1,0 +1,12 @@
+{
+    "validEmail": {
+        "email": "htythhjjkhgdvfd@gmail.com",
+        "password": "string",
+        "fcmToken": "string"
+    },
+    "invalidEmail": {
+        "email": "htythhjhh.com",
+        "password": "string",
+        "fcmToken": "string"
+    }
+}
