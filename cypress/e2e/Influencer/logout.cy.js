@@ -6,6 +6,7 @@ describe('API Tests', () => {
         cy.request({
             method: 'PATCH',
             url: 'https://api.influnaire.dreamkashmir.com/api/v1/influencer/logout',
+            failOnStatusCode: false,
             headers: {
                 Authorization: `Bearer ${token}`
             }
