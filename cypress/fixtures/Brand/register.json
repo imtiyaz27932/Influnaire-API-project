@@ -1,6 +1,6 @@
 {
     "validEmail": {
-        "email": "ghatsstf@gmail.com",
+        "email": "wrestler@gmail.com",
         "firstName": "Imtiyaz",
         "lastName": "Ahmad",
         "jobTitle": "Software Engineer",
@@ -9,7 +9,7 @@
         "password": "string"
     },
     "invalidEmail": {
-        "email": "westfefdrww.com",
+        "email": "westfedfddrwws.com",
         "firstName": "Imtiyaz",
         "lastName": "Ahmad",
         "jobTitle": "Software Engineer",

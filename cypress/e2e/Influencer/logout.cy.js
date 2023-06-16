@@ -1,8 +1,7 @@
 
 describe('API Tests', () => {
     it('Logout API functionality for influencer', () => {
-        const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijg4YjM0MWVhLTJmY2MtNGU1Mi1iM2Y2LTUwNDY5ODFiMTllNSIsImlhdCI6MTY4NjU1ODczNSwiZXhwIjoxNjg2NjQ1MTM1fQ.y-jl6mgEIN4ylWd5X0FXsuuSdOTIEVJkAC1qwWTA51o'; 
-
+        const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI2OWZkZTlmLTZlZWItNGFlZS05MjU0LTYwZDVkNTZiMDFjNCIsImlhdCI6MTY4Njg5MDEzNywiZXhwIjoxNjg2OTc2NTM3fQ.q0CyRd__mXeOg7Fx4AruhYyGUj3TxdzxfUhRwFdGQkc';
         cy.request({
             method: 'PATCH',
             url: 'https://api.influnaire.dreamkashmir.com/api/v1/influencer/logout',

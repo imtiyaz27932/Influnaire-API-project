@@ -1,6 +1,6 @@
 {
     "validEmail": {
-        "email": "mobildgegsbttff@example.com",
+        "email": "kalishmountainstest@example.com",
         "firstName": "John",
         "lastName": "Doe",
         "phoneNumber": "+19887988988",
@@ -8,7 +8,7 @@
         "fcmToken": "string"
     },
     "invalidEmail": {
-        "email": "modbiles.",
+        "email": "modbilesd.",
         "firstName": "John",
         "lastName": "Doe",
         "phoneNumber": "+19887988988",
